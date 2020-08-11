@@ -1,4 +1,4 @@
-# Data Visualizer
+# Sorting Algorithms Visualizer
 Visualises varius sorting algorithms for better understanding. 
 The algorithms presented are:
 <ul>
